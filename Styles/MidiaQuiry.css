@@ -64,4 +64,9 @@ Grandes Telas Acima de 1200px
         font-size: 1em;
         padding-bottom: 15px;
     }
+
+    div.campo > input {
+        transform: translateY(-7.5px);
+    }
+    
 }
