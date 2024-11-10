@@ -61,14 +61,14 @@ div#formulario p {
 }
 
 div.campo > input {
-    background-color: #eeddff;
+    background-color: #efe5fa;
     height: 100%; 
     width: calc(100% - 48.4px);
     font-size: 1em;
     border: 0px;
     border-radius: 0px 5px 5px 0px;
     padding: 4px;
-    transform: translateY(-10px);
+    transform: translateY(-10.5px);
 }
 
 div.campo > input:focus-within {
